@@ -13,7 +13,6 @@ This project covers various sorting algorithms implemented in C. The goal is to 
     - [Quick Sort](#quick-sort)
   - [Files](#files)
   - [Usage](#usage)
-  - [Usage](#usage-1)
   - [Author](#author)
 
 ## Introduction
@@ -41,8 +40,6 @@ Quick Sort is an efficient, comparison-based, divide-and-conquer sorting algorit
 - `quick_sort.c`: Implementation of the Quick Sort algorithm.
 - `README.md`: This file.
 
-## Usage
-To use any of the sorting algorithms, compile the corresponding C file and run the executable. For example, to use the Quick Sort algorithm:
 ## Usage
 1. Clone the repository:
     ```sh
